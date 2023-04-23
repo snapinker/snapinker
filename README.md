@@ -3,6 +3,6 @@ Issue Tracker for SnapInker - Screenshot styling and annotation tool only for Wi
 
 [⬇️ Download SnapInker](https://github.com/snapinker/snapinker/releases)
 
-![alt SnapInker](https://snapinker.com/snapinker.png)
+<kbd>![alt SnapInker](https://snapinker.com/snapinker.png)</kbd>
 
 
