@@ -18,6 +18,8 @@ Issue Tracker for SnapInker - Screenshot styling and annotation tool only for Wi
 
 📷 Multiple snapshot support in a single image
 
+🖥️ Extended monitor snapping support
+
 💾 Quick export and save
 
 💖 FREE to use
