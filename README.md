@@ -12,7 +12,7 @@ Issue Tracker for SnapInker - Screenshot styling and annotation tool only for Wi
 
 ↘️ Annotation tools such as Arrows, Ellipse, Rectangle and Text with prestyled colors for quick annotations
 
-⏹️ Blurred concealer for blurring a part of the image
+⏹️ Blur concealer for blurring a part of the image
 
 😀 Emoticon Support
 
