@@ -1,7 +1,7 @@
 # SnapInker
 Issue Tracker for SnapInker - Screenshot styling and annotation tool only for Windows (yet)
 
-[⬇️ Download SnapInker](https://github.com/snapinker/snapinker/releases)
+[⬇️ Download SnapInker](https://snapinker.com/download/SnapInker-Installer.exe)
 
 ### Features
 ⌚ Quick copy and paste images or take snapshots
