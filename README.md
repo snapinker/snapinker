@@ -25,6 +25,6 @@ Issue Tracker for SnapInker - Screenshot styling and annotation tool only for Wi
 💖 FREE to use
 ... 
 
-<kbd>![alt SnapInker](https://snapinker.com/snapinker.png)</kbd>
+<kbd>![alt SnapInker](https://snapinker.com/snapinker/assets/img/snapinker.png)</kbd>
 
 
