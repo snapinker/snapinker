@@ -14,6 +14,8 @@ Issue Tracker for SnapInker - Screenshot styling and annotation tool only for Wi
 
 ⏹️ Blur concealer for blurring a part of the image
 
+🔢 Quick numbering tool for generating step by step annotations
+
 😀 Emoticon Support
 
 📷 Multiple snapshot support in a single image
